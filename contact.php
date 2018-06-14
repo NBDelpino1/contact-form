@@ -5,7 +5,7 @@ THIS FILE USES PHPMAILER INSTEAD OF THE PHP MAIL() FUNCTION
 
 
 require 'vendor/autoload.php';
-require 'PHPMailer-master/PHPMailerAutoload.php';
+
 
 /*
 *  CONFIGURE EVERYTHING HERE
